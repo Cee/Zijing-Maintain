@@ -6,14 +6,19 @@ body {
 }
 
 .img-circle {
-	-webkit-border-radius: 800px;
-	-moz-border-radius: 800px;
-	border-radius: 800px;
+	-webkit-border-radius: 1000px;
+	-moz-border-radius: 1000px;
+	border-radius: 1000px;
 }
 
 .logo {
 	margin-top: 25%;
 	max-width: 100%;
+}
+
+.col-md-4 {
+	display: inline-table;
+	margin: 0 auto;
 }
 
 h3 {
